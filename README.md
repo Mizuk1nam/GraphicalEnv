@@ -1,4 +1,4 @@
-# GraphicalEnv
+# Graphical Environment
 Repo for our graphical environment class project
 
 ---
