@@ -3,7 +3,7 @@ Repo for our graphical environment class project
 
 ---
 
-## Joseph Lodico Model Images
+## Joseph Lodico Model Images/ made using Maya
 
 <table>
   <tr>
